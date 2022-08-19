@@ -15,20 +15,15 @@ function About() {
                         <div>
                             <h1 className="font-big text-red slide-in-top">About me</h1>
                             <hr></hr>
-                            <p className='slide-in-bottom'>Ambitious full-stack developer, a self-led learner and team player  <br></br>
-                                with one year of experience in web developement.
+                            <p className='slide-in-bottom'>Software Engineer with experience in designing and developing enterprise-grade strategic products and micro-services at scale.  <br></br>
                             </p>
                             <p className='slide-in-bottom'>
                                 Currently looking for new opportunities in industry and willing<br></br>
                                 to work on challenging and diverse projects with the latest technologies.
                             </p>
                             <p className='slide-in-bottom'>
-                                Previously worked as Full stack web developer.<br></br>
-                                The technology I've worked on : <span className="text-red ls-2">Asp.Net Core, Asp.Net Mvc, <br></br>
-                                C#, Sql, Ssms, Telerik-UI, Html, Css, Js, Bootstrap </span>
-                            </p>
-                            <p className='slide-in-bottom'>
-                                Currently Learning React Js Library
+                                The technology I've worked on : <span className="text-red ls-2">OOP, RDBMS (MYSQL, PostgreSQL), Microservices (Spring Boot), Centralized Logging (Elasticsearch, Kibana, Logstash, Filebeat), SCM (Git, Github), CI/CD (Jenkins), Containerization (Docker), Container Orchestration (Kubernetes, Helm), Big Data (Apache Spark, Apache Kafka), Cloud (Microsoft Azure, Terraform)
+                                </span>
                             </p>
                         </div>
                     </div>

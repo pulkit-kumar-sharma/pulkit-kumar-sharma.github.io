@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { SiCodechef, SiHackerrank } from 'react-icons/si';
+import { SiInstagram, SiHackerrank } from 'react-icons/si';
 
 function Resume() {
   return (
@@ -9,7 +9,7 @@ function Resume() {
                 
                 <div className="row">
                     <div className="col-6">
-                        <h2 className="ff-jose fw-bold ls-2">YAGNIK GOHIL</h2>
+                        <h2 className="ff-jose fw-bold ls-2">PULKIT KUMAR SHARMA</h2>
                     </div>
                 </div>
                 <hr></hr>
@@ -18,15 +18,21 @@ function Resume() {
                         <h4 className="ff-jose ls-2">EXPERIENCE</h4>
                         <ul>
                             <li>
-                                <h4 className="ff-jose my-1 text-red">Trainee Software Engineer</h4>
-                                <h6 className="blue-label px-2 py-1">Jul 2021 - Apr 2022</h6>
-                                <p className="m-0">TatvaSoft · Full-time</p>
-                                <p>Ahmedabad, Gujarat, India</p>
+                                <h4 className="ff-jose my-1 text-red">Senior Software Engineer</h4>
+                                <h6 className="blue-label px-2 py-1">August 2021 - Present</h6>
+                                <p className="m-0">Optum Global Solutions (United Health Group)</p>
+                                <p>Bangalore, Karnataka, India</p>
                             </li>
                             <li>
-                                <h4 className="ff-jose my-1 text-red">Internship Trainee</h4>
-                                <h6 className="blue-label px-2 py-1">Dec 2020 - Apr 2021</h6>
-                                <p className="m-0">TatvaSoft · Internship</p>
+                                <h4 className="ff-jose my-1 text-red">Software Engineer</h4>
+                                <h6 className="blue-label px-2 py-1">July 2019 - July 2021</h6>
+                                <p className="m-0">Optum Global Solutions (United Health Group)</p>
+                                <p>Bangalore, Karnataka, India</p>
+                            </li>
+                            <li>
+                                <h4 className="ff-jose my-1 text-red">TREES (Training And Research In Earth’s Eco-System) Trainee</h4>
+                                <h6 className="blue-label px-2 py-1">June 2018 - July 2018</h6>
+                                <p className="m-0">Space Applications Center (ISRO)</p>
                                 <p>Ahmedabad, Gujarat, India</p>
                             </li>
                         </ul>
@@ -36,16 +42,10 @@ function Resume() {
                         <h4 className="ff-jose ls-2">EDUCATION</h4>
                         <ul>
                             <li>
-                                <h4 className="ff-jose my-1 text-red">BE - Computer Engineering</h4>
-                                <h6 className="blue-label px-2 py-1">2017 - 2021</h6>
-                                <p className="m-0">Gujarat Technological University</p>
-                                <p>CGPA: 8.05</p>
-                            </li>
-                            <li>
-                                <h4 className="ff-jose my-1 text-red">Higher Secondary School</h4>
-                                <h6 className="blue-label px-2 py-1">2017</h6>
-                                <p className="m-0">Shree B.M.Commerce High School</p>
-                                <p>Grade: 71.69 %</p>
+                                <h4 className="ff-jose my-1 text-red">Bachelor of Technology - Computer Science And Engineering</h4>
+                                <h6 className="blue-label px-2 py-1">2015 - 2019</h6>
+                                <p className="m-0">Indian Institute of Technology Mandi</p>
+                                <p>CGPA: 7.64</p>
                             </li>
                         </ul>
 
@@ -58,10 +58,10 @@ function Resume() {
                     <div className="col-md-6">
                         <h4 className="ff-jose ls-2">PROFILE</h4>
                         <h1>
-                            <a href="https://www.codechef.com/users/yagnik_003" target="/blank" className="text-white text-decoration-none mx-2">
-                                <SiCodechef className="zoom-on-hover"/>
+                            <a href="https://www.instagram.com/__pulkit.sharma__/" target="/blank" className="text-white text-decoration-none mx-2">
+                                <SiInstagram className="zoom-on-hover"/>
                             </a> 
-                            <a href="https://www.hackerrank.com/Yagnik_003" target="/blank" className="text-white text-decoration-none mx-2">
+                            <a href="https://www.hackerrank.com/pulkits1998" target="/blank" className="text-white text-decoration-none mx-2">
                                 <SiHackerrank className="zoom-on-hover"/>
                             </a> 
                         </h1>
