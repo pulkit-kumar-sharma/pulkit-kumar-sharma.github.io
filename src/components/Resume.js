@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { SiInstagram, SiHackerrank } from 'react-icons/si';
+import { SiInstagram, SiHackerrank, SiTwitter } from 'react-icons/si';
 
 function Resume() {
   return (
@@ -61,6 +61,9 @@ function Resume() {
                             <a href="https://www.instagram.com/__pulkit.sharma__/" target="/blank" className="text-white text-decoration-none mx-2">
                                 <SiInstagram className="zoom-on-hover"/>
                             </a> 
+                            <a href="https://twitter.com/PulkitS71" target="/blank" className="text-white text-decoration-none mx-2">
+                                <SiTwitter className="zoom-on-hover"/>
+                            </a>
                             <a href="https://www.hackerrank.com/pulkits1998" target="/blank" className="text-white text-decoration-none mx-2">
                                 <SiHackerrank className="zoom-on-hover"/>
                             </a> 
