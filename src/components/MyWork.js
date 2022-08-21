@@ -21,13 +21,7 @@ function MyWork() {
                         <div id="carouselExampleControls1" className="carousel slide my-1" data-bs-ride="carousel">
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
-                                <img src="../portfolio-images/w-01.png" className="d-block w-100" alt="..."/>
-                                </div>
-                                <div className="carousel-item">
-                                <img src="../portfolio-images/w-02.png" className="d-block w-100" alt="..."/>
-                                </div>
-                                <div className="carousel-item">
-                                <img src="../portfolio-images/w-03.png" className="d-block w-100" alt="..."/>
+                                <img src="../portfolio-images/SpringReactAppMainScreen.png" className="d-block w-100" alt="..."/>
                                 </div>
                             </div>
                             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls1" data-bs-slide="prev">
@@ -39,14 +33,13 @@ function MyWork() {
                                 <span className="visually-hidden">Next</span>
                             </button>
                         </div>
-                            <h5 className="ff-jose my-1">Weather App</h5>
+                            <h5 className="ff-jose my-1">Spring React App</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://weather-yg.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="/blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/Yagnik-Gohil/Weather" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="/blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://github.com/pulkit-kumar-sharma/SpringBoot-React-Starter-Project" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="/blank"><AiFillGithub/> Source Code</a>
                             </div>
 
                     </div>
-                    <div className="col-md-4 text-center my-2">
+                    {/* <div className="col-md-4 text-center my-2">
                         
                         <div id="carouselExampleControls2" className="carousel slide my-1" data-bs-ride="carousel">
                             <div className="carousel-inner">
@@ -141,7 +134,7 @@ function MyWork() {
                                 <a href="https://github.com/Yagnik-Gohil/Solo" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="/blank"><AiFillGithub/> Source Code</a>
                             </div>
                         
-                    </div>
+                    </div> */}
                 </div>
                 
             </div>
