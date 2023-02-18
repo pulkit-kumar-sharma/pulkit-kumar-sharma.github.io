@@ -97,6 +97,36 @@ function MyWork() {
                             </div>
                         
                     </div>
+                    <div className="col-md-4 text-center my-2">
+                        
+                        <div id="carouselExampleControls4" className="carousel slide my-1" data-bs-ride="carousel">
+                            <div className="carousel-inner">
+                                <div className="carousel-item active">
+                                <img src="../portfolio-images/FixedDepositCalculator-1.png" className="d-block w-100" alt="..."/>
+                                </div>
+                                <div className="carousel-item">
+                                <img src="../portfolio-images/FixedDepositCalculator-2.png" className="d-block w-100" alt="..."/>
+                                </div>
+                                <div className="carousel-item">
+                                <img src="../portfolio-images/FixedDepositCalculator-3.png" className="d-block w-100" alt="..."/>
+                                </div>
+                            </div>
+                            <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls4" data-bs-slide="prev">
+                                <GrPrevious/>
+                                <span className="visually-hidden">Previous</span>
+                            </button>
+                            <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleControls4" data-bs-slide="next">
+                                <GrNext/>
+                                <span className="visually-hidden">Next</span>
+                            </button>
+                        </div>
+                            <h5 className="ff-jose my-1">Fixed Deposit Calculator</h5>
+                            <div className="row d-flex justify-content-center">
+                                <a href="https://pulkit-kumar-sharma.github.io/FD-Interest-Calculator/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="/blank"><BsLaptop/> Watch Live</a>
+                                <a href="https://github.com/pulkit-kumar-sharma/FD-Interest-Calculator" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="/blank"><AiFillGithub/> Source Code</a>
+                            </div>
+                        
+                    </div>
                 </div>
                 
             </div>
